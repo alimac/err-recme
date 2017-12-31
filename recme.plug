@@ -1,0 +1,9 @@
+[Core]
+Name = Recme
+Module = Recme
+
+[Documentation]
+Description = A plugin for Errbot that allows chat users to add recommendations.
+
+[Python]
+Version = 3

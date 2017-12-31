@@ -1,0 +1,9 @@
+[Core]
+Name = recme_flows
+Module = recme_flows.py
+
+[Documentation]
+Description = Example of flows with re_botcmd
+
+[Python]
+Version = 2+
